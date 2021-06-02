@@ -26,5 +26,10 @@
 			<type>1</type>
 			<location>C:/Users/User/Desktop/state_census.csv</location>
 		</link>
+		<link>
+			<name>src/test/resources/state_code.csv</name>
+			<type>1</type>
+			<location>C:/Users/User/Desktop/state_code.csv</location>
+		</link>
 	</linkedResources>
 </projectDescription>
